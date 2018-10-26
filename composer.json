@@ -6,8 +6,7 @@
   "homepage": "https://github.com/Pernod-Ricard/wp-plugin-openid-connect-azure-ad",
   "authors": [
     {
-      "name": "Pernod Ricard",
-      "email": "itarchitecture@pernodricard.onmicrosoft.com"
+      "name": "Pernod Ricard"
     }
   ],
   "keywords": [
