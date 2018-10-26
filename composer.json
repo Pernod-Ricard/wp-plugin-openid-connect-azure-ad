@@ -1,0 +1,25 @@
+{
+  "name": "openid-connect-azure-ad",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0-or-later",
+  "description": "WordPress plugin to provide an OpenID Connect for Azure AD.",
+  "homepage": "https://github.com/Pernod-Ricard/wp-plugin-openid-connect-azure-ad",
+  "authors": [
+    {
+      "name": "Pernod Ricard",
+      "email": "itarchitecture@pernodricard.onmicrosoft.com"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "openid",
+    "azure ad"
+  ],
+  "support": {
+    "issues": "https://github.com/Pernod-Ricard/wp-plugin-openid-connect-azure-ad/issues"
+  },
+  "require": {
+    "php": ">=5.3.3",
+    "composer/installers": "~1.0"
+  }
+}
